@@ -1,8 +1,6 @@
 ### Bem vindo, meu nome é Igor dos Santos Rosa! 🤙🏾
 
-<a href="https://www.linkedin.com/in/igordsrosa/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/igordsrosa/)
 
 ![Igor GitHub stats](https://github-readme-stats.vercel.app/api?username=igordsrosa&show_icons=true&theme=onedark)
 
