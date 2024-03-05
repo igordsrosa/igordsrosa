@@ -1,16 +1,28 @@
-### Hi there 👋
+<div>
+  <h3>Greetings, I'm Igor dos Santos Rosa 🤙🏽</h3>
+  I'm 24 years old and I aspire to develop my skills and become a back-end developer!
+</div>
 
-<!--
-**igordsrosa/igordsrosa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##
+<div style="display: inline-block">
+  <h4>The main skills I am studying</h4>
+  <p>- C#</p>
+  <p>- .NET</p>
+  <p>- Entity Framework</p>
+  <p>- LINQ</p>
+</div>
 
-Here are some ideas to get you started:
+##
+<div style="display: inline-block">
+  <h4>Social medias</h4>
+  <p>- LinkedIn - https://www.linkedin.com/in/igordsrosa</p>
+  <p>- Instagram - https://www.instagram.com/igoorsr_</p>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##
+<div>
+  <h4>Contacts</h4>
+  <p>- Number Phone and WhatsApp - +55 (11) 96832-6487</p>
+  <p>- Email: igordossrosa@outlook.com</p>
+</div>
+
