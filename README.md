@@ -5,7 +5,7 @@
 
 ##
 <div style="display: inline-block">
-  <h4>The main skills I am studying</h4>
+  <h4>The main skills that I'm studying</h4>
   <h5>Development</h5>
     <p>- C#</p>
     <p>- .NET</p>
