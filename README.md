@@ -12,7 +12,6 @@
     <p>- ASP.NET Core</p>
     <p>- Entity Framework</p>
     <p>- LINQ</p>
-    <p>- ASP.NET Core</p>
 
   <h5>Database</h5>
     <p>- MySql</p>
