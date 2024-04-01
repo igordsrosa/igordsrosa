@@ -7,11 +7,8 @@
 <div style="display: inline-block">
   <h4>The main skills that I'm studying</h4>
   <h5>Development</h5>
-    <p>- C#</p>
-    <p>- .NET</p>
-    <p>- ASP.NET Core</p>
-    <p>- Entity Framework</p>
-    <p>- LINQ</p>
+    <p>- Java</p>
+    <p>- Spring Boot</p>
 
   <h5>Database</h5>
     <p>- MySql</p>
