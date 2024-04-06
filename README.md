@@ -11,8 +11,10 @@
     <p>- Spring Boot</p>
 
   <h5>Database</h5>
-    <p>- MySql</p>
-    <p>- MoongoDB</p>
+    <p>- SQL (MySQL)</p>
+    <p>- NoSQL (MongoDB)</p>
+    <p>- PL/SQL</p>
+    
 </div>
 
 ##
