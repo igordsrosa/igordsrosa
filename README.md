@@ -1,16 +1,16 @@
 <div>
-  <h3>Greetings, I'm Igor dos Santos Rosa 🤙🏽</h3>
-  I'm 24 years old and I aspire to develop my skills and become a back-end developer!
+  <h3>Bem vindo, sou o Igor dos Santos Rosa 🤙🏽</h3>
+  Eu tenho 24 anos e estou em busca de desenvolver minhas habilidades e me tornar um desenvolvedor back-end!
 </div>
 
 ##
 <div style="display: inline-block">
-  <h4>The main skills that I'm studying</h4>
-  <h5>Development</h5>
+  <h4>Principais tecnologias que estou aprendendo</h4>
+  <h5>Desenvolvimento</h5>
     <p>- Java</p>
     <p>- Spring Boot</p>
 
-  <h5>Database</h5>
+  <h5>Banco de Dados</h5>
     <p>- SQL (MySQL)</p>
     <p>- NoSQL (MongoDB)</p>
     <p>- PL/SQL</p>
@@ -19,15 +19,15 @@
 
 ##
 <div style="display: inline-block">
-  <h4>Social medias</h4>
+  <h4>Redes sociais</h4>
   <p>LinkedIn - https://www.linkedin.com/in/igordsrosa</p>
   <p>Instagram - https://www.instagram.com/igoorsr_</p>
 </div>
 
 ##
 <div>
-  <h4>Contacts</h4>
-  <p>Number Phone and WhatsApp - +55 (11) 96832-6487</p>
+  <h4>Contatos</h4>
+  <p>Número de telefone e WhatsApp: +55 (11) 96832-6487</p>
   <p>Email: igordossrosa@outlook.com</p>
 </div>
 
